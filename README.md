@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a passionate and curious developer with a love for web development 🌐.<br>🧠 I'm deeply interested in Natural Language Processing (NLP) and Machine Learning 🤖.<br>🚀 I’m always driven by the desire to grow, evolve, and level up my skills 💡✨.<br>💬 Whether I’m building user-friendly websites or exploring the world of AI, I’m always up for a new challenge!
+I'm a passionate and curious developer with a love for web development.<br> I'm deeply interested in Natural Language Processing (NLP) and Machine Learning.<br> I’m always driven by the desire to grow, evolve, and level up my skills.<br>💬 Whether I’m building user-friendly websites or exploring the world of AI, I’m always up for a new challenge!
 
 
 # 💻 Tech Stack:
